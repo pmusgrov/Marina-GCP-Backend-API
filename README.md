@@ -30,17 +30,15 @@ Ensured strict adherence to RESTful principles, optimizing API design and functi
 Postman Collection:
 
 Developed a comprehensive Postman Collection for testing various aspects of the API, including CRUD operations, relationship management, and other essential functionalities.
+
 How to Use:
 Clone the repository: git clone https://github.com/your-username/marina-gcp-backend.git
 Install dependencies: pip install -r requirements.txt
 Set up Auth0 credentials and API keys for GCP.
 Run the application: python app.py
 Access the API at http://localhost:5000
+
 Postman Collection:
 Find the Postman Collection in the postman directory.
 Import the collection into Postman for convenient testing of API functionalities.
-Contributing:
-Feel free to contribute by submitting issues or pull requests. Your feedback and contributions are highly appreciated!
 
-License:
-This project is licensed under the MIT License.
