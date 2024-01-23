@@ -29,9 +29,9 @@ app.secret_key = 'SECRET_KEY'
 
 client = datastore.Client()
 
-CLIENT_ID = 'Hi0kWj4ej8EPBrN7gJvgOFV5dY8WCLFS'
-CLIENT_SECRET = 'Mn2Ydm2JTeTthg3bQzWuxC9ZSkcADCiX8AmTFVsu2K1gmWLV-BWsTWs_acIdsBYr'
-DOMAIN = 'dev-ekrbauslpvf2xmh1.us.auth0.com'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
+DOMAIN = '
 
 ALGORITHMS = ["RS256"]
 
